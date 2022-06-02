@@ -1,0 +1,7 @@
+- 👋 Oi, eu sou @LeonardoVetoreti.
+- 👀 Estou interessado na área de desenvolvimento de softwares.
+- 📖 Formado no curso Sistemas de Informação na Faculdade Unilago em São José do Rio Preto, conclusão em 2020.
+- 🌱 Atualmente estou aprendendo desenvolvimento web, com html e estilo css...
+- 👔 Trabalhando na empresa InfoTEM Sistemas, atuando como suporte e tambem realizando implantações do sistema nos clientes.
+- 💞️ Estou procurando colaborar em empresas de desenvolvimento, que tenha vagas junior para aprender tambem na prática.
+- 📫 Para chegar até mim utilize do telefone/whatsapp (17) 99188-5555 ou atraves do email leovetoret@hotmail.com.
